@@ -5,7 +5,6 @@ using SparseArrays
 
 using Ferrite
 using FerriteGmsh
-using Logging, LoggingExtras
 
 
 element_dim = 2
